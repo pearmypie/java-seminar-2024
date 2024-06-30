@@ -1,0 +1,10 @@
+1. descarcam fisierul jar de pe https://github.com/xerial/sqlite-jdbc/releases/tag/3.45.3.0
+2. facem un folder lib si in el punem fisierul descarcat
+3. right click pe jar > build path > add to build path
+4. descarcam https://www.slf4j.org/download.html
+	> https://repo1.maven.org/maven2/org/slf4j/
+	> https://repo1.maven.org/maven2/org/slf4j/slf4j-api/
+	> https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/
+	> slf4j-api-2.0.13.jar (fara javadoc)
+5. right click pe jar > build path > add to build path
+6. Run > Run as > Run configurations pt String[] args
